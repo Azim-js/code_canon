@@ -1,2 +1,2 @@
 # code_canon
-image_detection!(python)
+using python openCV2 module you can detect faces in images .
